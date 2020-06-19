@@ -1,0 +1,13 @@
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\obj\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.csprojAssemblyReference.cache
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\obj\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\obj\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\obj\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\bin\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.exe
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\bin\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.deps.json
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\bin\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.runtimeconfig.json
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\bin\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\bin\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.dll
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\bin\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.pdb
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\obj\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.dll
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\obj\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.pdb
+C:\Users\Pichau\Documents\Aula20ExercicioDeFixação\obj\Debug\netcoreapp3.1\Aula20ExercicioDeFixação.genruntimeconfig.cache

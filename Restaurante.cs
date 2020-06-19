@@ -2,17 +2,19 @@ namespace Aula20ExercicioDeFixação
 {
     public class Restaurante
     {
-        public string NomeFantasia;
-        public string Endereco;
-        private string v;
 
-        public Restaurante(string v)
-        {
-            this.v = v;
+        public string NomeRestaurante { get; set; }
+        public string Endereco { get; set; }
+      
+
+        public Restaurante(string _nome){
+            this.NomeRestaurante = _nome;
         }
 
+         
+
         public string MostrarDados(){
-            return $"NomeFantasia: {NomeFantasia}, Endereco: {Endereco}";
+            return $"Restaurante: {NomeRestaurante}, Endereco: {Endereco}";
 
         }
     }
